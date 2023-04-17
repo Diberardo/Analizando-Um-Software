@@ -131,13 +131,9 @@ São vários os relatos de falhas repetidas que impedem a concretização de det
 Capacidade de evolução:
 Definitivamente, não pode ser avaliado como um aplicativo de sucesso. Pela quantidade de erros apontados, a sobrevivência do software está fadada ao insucesso. Como visto nas inúmeras telas, as adaptações, ajustes e mudanças não têm atendido às inúmeras e crescentes reclamações. Não sem motivo, a média de avaliação dada pelos usuários ao aplicativo é muito baixa: 2,3 em uma escala que vai até 5 (98 mil avaliações).
 
-•	https://outgedow.com/br/carrefour.com.ar. 
-•	www.reclameaqui.com.br.
-•	http://www.infoq.com/ HYPERLINK "http://www.infoq.com/br/presentations/robustez-software.%20Acesso"br/presentations/robustez-software. Acesso 
-•	http://veja.abril.com.br/coluna/radar/justica-mantem- HYPERLINK "http://veja.abril.com.br/coluna/radar/justica-mantem-suspensao-de-aplicativo-do-carrefour/amp/"suspensao-de-aplicativo-do-carrefour/amp/. 
-
-
-
-
-	
-
+*https://outgedow.com/br/carrefour.com.ar. 
+*www.reclameaqui.com.br.
+*http://www.infoq.com/ 
+*http://www.infoq.com/br/presentations/robustez-software.%20Acesso"br/presentations/robustez-software. 
+*http://veja.abril.com.br/coluna/radar/justica-mantem- 
+*http://veja.abril.com.br/coluna/radar/justica-mantem-suspensao-de-aplicativo-do-carrefour/amp/"suspensao-de-aplicativo-do-carrefour/amp/. 
